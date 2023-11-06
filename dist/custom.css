@@ -1,0 +1,13 @@
+.emoji {
+    height: 1em;
+    margin: 0 !important;
+}
+
+body {
+    --r-heading1-size: 6rem;
+    --r-heading2-size: 3rem;
+}
+
+h2 {
+    --r-heading-color: #8BE9FD;
+}

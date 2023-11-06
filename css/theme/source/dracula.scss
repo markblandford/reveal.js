@@ -130,3 +130,8 @@ $codeFont: "Fira Code", $systemFontsMono;
 .reveal ol li {
 	counter-increment: li
 }
+
+.reveal img .emoji {
+	height: 1rem;
+	width: 1rem;
+}
